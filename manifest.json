@@ -1,11 +1,11 @@
 {
-  "name": "Open PWA  Test",
-  "short_name": "OpenPWA",
+  "name": "Open PWA",
+  "short_name": "Open PWA",
   "start_url": "./", 
   "scope": ".",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#000",
+  "background_color": "#fff",
   "theme_color": "#640700",
   "icons": [
     {
